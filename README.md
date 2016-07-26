@@ -1,4 +1,4 @@
-# gm-familiar
+# grimore
 A note taking application designed to take advantage of in-message tagging, searching, etc.
 
 A [re-frame](https://github.com/Day8/re-frame) application.

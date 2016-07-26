@@ -1,7 +1,7 @@
 # gm-familiar
-A Game Master's Familiar or Assistant.  Some place to keep track of in-session notes as well as out of session prep.
+A note taking application designed to take advantage of in-message tagging, searching, etc.
 
-A [re-frame](https://github.com/Day8/re-frame) application designed to ... well, that part is up to you.
+A [re-frame](https://github.com/Day8/re-frame) application.
 
 ## Development Mode
 
